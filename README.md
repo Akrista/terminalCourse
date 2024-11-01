@@ -357,4 +357,3 @@ A continuación les comparto algunos juegos para aprender sobre la terminal y pr
 * [mindustry](https://store.steampowered.com/app/1127400/Mindustry/) - Juego de construcción y gestión.
 * [bandit](https://overthewire.org/wargames/bandit/) - Juego de seguridad informática.
 
-<!-- end_slide -->
